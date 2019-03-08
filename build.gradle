@@ -1,7 +1,0 @@
-group = "com.jun"
-version = "0.0.1-SNAPSHOT"
-
-dependencies {
-
-    compile gradleApi()
-}
